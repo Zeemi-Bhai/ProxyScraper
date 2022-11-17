@@ -47,5 +47,5 @@ Now enter the txt file name where you want to save all the proxies.
 ## License
 
 This tool is made in love by Owner of
-[AnonCyberWarrior](t.me/AnonCyberWarrior) | [ZeemiBhai](wa.me/923465277602) ❤
+[AnonCyberWarrior](https://t.me/AnonCyberWarrior) | [ZeemiBhai](https://wa.me/923465277602) ❤
 
