@@ -74,6 +74,6 @@ Now to run the main file :
 Now enter the txt file name where you want to save all the proxies.
 ## License
 
-This tool is made in love by Owner of
-[AnonCyberWarrior](https://t.me/AnonCyberWarrior) | [ZeemiBhai](https://wa.me/923465277602) ❤
+This tool is made with 💖 by Owner of
+[AnonCyberWarrior](https://t.me/AnonCyberWarrior) | [ZeemiBhai](https://wa.me/923435041018) ❤
 
