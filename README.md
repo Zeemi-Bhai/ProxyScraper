@@ -21,7 +21,24 @@ Some of programs screen shots are attached below :
 
 ## Installation
 
-Follow the below commands to install required packages, you must have python 3 for running the program
+Follow the below commands to install required packages, you must have python 3 for running the program - Window Users install from setup and for termux users follow below comamnds
+
+
+```python
+  apt update
+```
+
+```python
+  apt upgrade -y
+```
+
+```python
+  apt install python
+```
+
+```python
+  apt install python3
+```
 
 ```python
   pip install bs4
@@ -35,6 +52,17 @@ Follow the below commands to install required packages, you must have python 3 f
   pip install slowprint
 
 ```
+
+```python
+  git clone https://github.com/Zeemi-Bhai/ProxyScraper
+
+```
+
+```python
+  cd ProxyScraper
+
+```
+
 
 Now to run the main file : 
 
